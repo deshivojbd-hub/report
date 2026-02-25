@@ -1,0 +1,5 @@
+{
+  "name": "Deshi Voj Financial Analyzer",
+  "description": "Professional-grade financial reporting tool that extracts data from ledger PDFs to generate Income Statements, Trial Balances, and Balance Sheets.",
+  "requestFramePermissions": []
+}
